@@ -1,8 +1,8 @@
 class PippinMcp < Formula
   desc "Apple's on-device AI exposed as an MCP server"
   homepage "https://github.com/Bowl42/pippin-mcp"
-  url "https://github.com/Bowl42/pippin-mcp/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "6d16ce2ca6012f674c773409afc60c1f4e9b216d9dc0e02925560fd24eb98d3e"
+  url "https://github.com/Bowl42/pippin-mcp/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "58fe96fc1bfcb60bd8bca63a83ecc0c43fd6d09ce43ff0b065185a3cd8310b1e"
   license "MIT"
   head "https://github.com/Bowl42/pippin-mcp.git", branch: "main"
 
